@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/House-MarketPlace/static/css/main.f8960193.css",
+    "main.js": "/House-MarketPlace/static/js/main.f8a012e4.js",
+    "static/js/787.889a0458.chunk.js": "/House-MarketPlace/static/js/787.889a0458.chunk.js",
+    "static/media/sellCategoryImage.jpg": "/House-MarketPlace/static/media/sellCategoryImage.c4d28ee7217d692d13fb.jpg",
+    "static/media/rentCategoryImage.jpg": "/House-MarketPlace/static/media/rentCategoryImage.cd9f015021c041d9ad87.jpg",
+    "static/media/googleIcon.svg": "/House-MarketPlace/static/media/googleIcon.a2a9c863d781c3e8abab4e7390cde6cb.svg",
+    "index.html": "/House-MarketPlace/index.html",
+    "static/media/bathtubIcon.svg": "/House-MarketPlace/static/media/bathtubIcon.b95c8ddb4dae960083f7c6ba713cbb50.svg",
+    "static/media/badgeIcon.svg": "/House-MarketPlace/static/media/badgeIcon.6a60b5bc1167fef5e6d0.svg",
+    "static/media/bedIcon.svg": "/House-MarketPlace/static/media/bedIcon.eefa75b10479ecc5ec087e92666866eb.svg",
+    "static/media/exploreIcon.svg": "/House-MarketPlace/static/media/exploreIcon.46f5bb6905dae22016100504332a86a9.svg",
+    "static/media/localOfferIcon.svg": "/House-MarketPlace/static/media/localOfferIcon.2f90605bf28080e608c8ce11d8b9eb5e.svg",
+    "static/media/lockIcon.svg": "/House-MarketPlace/static/media/lockIcon.a38a1b56168bd1199de4.svg",
+    "static/media/visibilityIcon.svg": "/House-MarketPlace/static/media/visibilityIcon.50baf066e2203e1989f7aa6febc4320d.svg",
+    "static/media/personOutlineIcon.svg": "/House-MarketPlace/static/media/personOutlineIcon.f67a0190b977d851bec55fc9c520365a.svg",
+    "static/media/editIcon.svg": "/House-MarketPlace/static/media/editIcon.9b527df04c00d16681c2b5da9c778dfc.svg",
+    "static/media/personIcon.svg": "/House-MarketPlace/static/media/personIcon.60c17ce32265f6273287.svg",
+    "static/media/deleteIcon.svg": "/House-MarketPlace/static/media/deleteIcon.a53e22036f5f02bda3f291072d6c5f80.svg",
+    "static/media/keyboardArrowRightIcon.svg": "/House-MarketPlace/static/media/keyboardArrowRightIcon.8cee54bec29003f4c3faa8f2acfa6de8.svg",
+    "static/media/homeIcon.svg": "/House-MarketPlace/static/media/homeIcon.09f28a7193ed1624e778ad88fc51ab56.svg",
+    "main.f8960193.css.map": "/House-MarketPlace/static/css/main.f8960193.css.map",
+    "main.f8a012e4.js.map": "/House-MarketPlace/static/js/main.f8a012e4.js.map",
+    "787.889a0458.chunk.js.map": "/House-MarketPlace/static/js/787.889a0458.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8960193.css",
+    "static/js/main.f8a012e4.js"
+  ]
+}
